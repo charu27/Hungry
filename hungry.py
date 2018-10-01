@@ -1,5 +1,5 @@
 hungry=input("Are you Hungry")
 if hungry=="yes" and "Yes"
-   print("Oh..eat samosa.")
+   print("khalo kuch bhi")
 else
-   print("Do your work")
+   print("khila do kuch bhi")
